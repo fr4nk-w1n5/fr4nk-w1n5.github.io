@@ -21,7 +21,7 @@ Summary of your role
 
 - Accomplishment that contains **bold text**.
 - Accomplishment
-- Accomplishment
+- Quarterly Deans List Autumn 2021
 - Annual Deans List 2020 -2021 academic year
 
 ## University Name 2 (City, State)
