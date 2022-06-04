@@ -1,54 +1,49 @@
 # Frank Mwangi
-your.name@example.com
+frankm25@uw.edu
 
-http://www.example.com
-
-http://www.linkedin.com/in/frankmwangi
+[http://www.linkedin.com/in/frankmwangi](http://www.linkedin.com/in/frankmwangi)
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+> I am detail-oriented which was demonstrated through having to keep track of different sources when doing research projects. I am also a good communicator that is able to converse well with coworkers and supervisors.
 
-# Work Experience (only last 10 years)
+# Education 
 
-## Education 
+## University of Washington, Seattle 
 
-* [University of Washington, Seattle][] description, particularly if not well-known.*
+Bachelor of Arts in Geography, Data Science - June 2022
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+Relevant courses
 
-Summary of your role
+- CSE 142/143 - Computer Programming I & II
+- GEOG 465 - GIS Database Programming
+- CSE 373 - Data Structures and Algorithms
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Quarterly Deans List Autumn 2021
-- Annual Deans List 2020 -2021 academic year
+# Work Experience
 
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+## Paul G. Allen School of Computer Science, <br>  University of Washington (Seattle, WA)
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+Teaching Assistant for Data Structures and Algorithms, January 2022 to March 2022
 
-Summary of your role
+- Help students learn class concepts including: **graph algorithms, trees, heaps, and hashing implementation**
+- Instruct a group of **30 students** through weekly quiz sections
+- Serve as a resource to students in the class by **hosting weekly office hours**
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+## Residential Community Student Association - Housing and Food Services, <br>University of Washington (Seattle, WA)
 
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
+Director of Finance and Administration (September 2021 to January 2022)
+- Record and track all income and expenditures of the RCSA
+- Update the website and calendar
+- Serve as chair for the Budget Advisory Committee to educate residents on how UW Housing and Food Services (HFS) spends their money and creates their budget for the year
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+## Accomplishments
+1. Quarterly Deans List - Autumn 2021
+2. Annual Deans List - 2020 - 2021 Academic year
 
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+<br>
+##### Useful Links:
+[Paul G. Allen School of Computer Science](https://www.cs.uw.edu)
+[Housing and Food Services department of the University of Washington](https://hfs.uw.edu)
+
+![Portrait photo of Frank Mwangi](assets/Frank_mwangi_portrait.jpg)
