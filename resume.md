@@ -43,7 +43,7 @@ Director of Finance and Administration (September 2021 to January 2022)
 
 <br>
 ##### Useful Links:
-[Paul G. Allen School of Computer Science](https://www.cs.uw.edu)
-[Housing and Food Services department of the University of Washington](https://hfs.uw.edu)
+- [Paul G. Allen School of Computer Science](https://www.cs.uw.edu) 
+- [Housing and Food Services department of the University of Washington](https://hfs.uw.edu)
 
 ![Portrait photo of Frank Mwangi](assets/Frank_mwangi_portrait.jpg)
